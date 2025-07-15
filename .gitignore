@@ -25,6 +25,8 @@ build/
 *.autosave
 *.qmlproject.user
 *.qmlproject.user.*
+*.user
+*.user.*
 
 # CMake user files
 CMakeLists.txt.user*
