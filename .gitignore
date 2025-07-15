@@ -15,6 +15,7 @@ ui_*.h
 Debug/
 Release/
 build-*/
+build/
 
 # File degli IDE Qt Creator
 *.pro.user
